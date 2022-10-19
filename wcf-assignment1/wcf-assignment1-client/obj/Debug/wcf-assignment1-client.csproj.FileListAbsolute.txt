@@ -1,0 +1,8 @@
+C:\Users\james\OneDrive\Desktop\Programming Distributed Apps\wcf-assignment1\wcf-assignment1\wcf-assignment1\wcf-assignment1-client\bin\Debug\wcf-assignment1-client.exe.config
+C:\Users\james\OneDrive\Desktop\Programming Distributed Apps\wcf-assignment1\wcf-assignment1\wcf-assignment1\wcf-assignment1-client\bin\Debug\wcf-assignment1-client.exe
+C:\Users\james\OneDrive\Desktop\Programming Distributed Apps\wcf-assignment1\wcf-assignment1\wcf-assignment1\wcf-assignment1-client\bin\Debug\wcf-assignment1-client.pdb
+C:\Users\james\OneDrive\Desktop\Programming Distributed Apps\wcf-assignment1\wcf-assignment1\wcf-assignment1\wcf-assignment1-client\obj\Debug\wcf-assignment1-client.csproj.AssemblyReference.cache
+C:\Users\james\OneDrive\Desktop\Programming Distributed Apps\wcf-assignment1\wcf-assignment1\wcf-assignment1\wcf-assignment1-client\obj\Debug\wcf-assignment1-client.csproj.SuggestedBindingRedirects.cache
+C:\Users\james\OneDrive\Desktop\Programming Distributed Apps\wcf-assignment1\wcf-assignment1\wcf-assignment1\wcf-assignment1-client\obj\Debug\wcf-assignment1-client.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Desktop\Programming Distributed Apps\wcf-assignment1\wcf-assignment1\wcf-assignment1\wcf-assignment1-client\obj\Debug\wcf-assignment1-client.exe
+C:\Users\james\OneDrive\Desktop\Programming Distributed Apps\wcf-assignment1\wcf-assignment1\wcf-assignment1\wcf-assignment1-client\obj\Debug\wcf-assignment1-client.pdb
